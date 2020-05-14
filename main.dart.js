@@ -47659,7 +47659,7 @@ a[9]=q*s+p*t
 a[10]=o*s+n*t
 a[11]=m*s+l*t
 l=u.F
-a0=M.bw(h,new T.b6(C.vC,M.bw(h,T.ie(H.c([new T.cS(1,C.af,new T.cY(C.L,h,h,T.nf(C.vN,T.qw(M.bw(h,new K.wQ(C.az,new L.lo("images/SriRam.jpg",h,h),115,h),h,h,h,h,h,h,h,h,h),new K.U5(i),new K.U6(i,e),new K.U7(i,e),!0),a0,!0),h),h),new T.cS(1,C.af,M.bw(h,new T.cY(C.L,h,h,T.ie(H.c([new T.b6(C.pf,L.bT("Sai Sri Ram Kumar Macha",h,h,h,B.b0(C.l,30,h),h),h),new T.b6(C.pf,L.bT("Cyber Security. Flutter. Web development",h,h,h,B.b0(C.O,22,h),h),h),new T.cY(C.L,h,h,L.bT("Likes Traveling.",h,h,h,B.b0(C.O,22,h),h),h),new T.b6(C.kW,T.kr(H.c([new E.fH(O.pJ(N.a_i(L.MC(C.Rz,C.wY.h(0,200)),L.bT("GitHub",h,h,h,B.b0(C.l,h,h),h),new K.U8())),h),new E.fH(O.pJ(N.a_i(L.MC(C.Ry,C.aw),L.bT("Twitter",h,h,h,B.b0(C.l,h,h),h),new K.U9())),h),new E.fH(O.pJ(N.a_i(L.MC(C.vQ,C.x5),L.bT("Codewars",h,h,h,B.b0(C.l,h,h),h),new K.Ua())),h)],l),C.m3,C.ab),h)],l),C.aJ,C.aa,C.ab),h),h,h,h,h,h,h,h,h,h),h)],l),C.aJ,C.aa,C.ab),C.o,h,h,h,h,h,h,h,h),h),new P.v(g),h,h,h,h,h,h,h,h)
+a0=M.bw(h,new T.b6(C.vC,M.bw(h,T.ie(H.c([new T.cS(1,C.af,new T.cY(C.L,h,h,T.nf(C.vN,T.qw(M.bw(h,new K.wQ(C.az,new L.lo("assets/images/SriRam.jpg",h,h),115,h),h,h,h,h,h,h,h,h,h),new K.U5(i),new K.U6(i,e),new K.U7(i,e),!0),a0,!0),h),h),new T.cS(1,C.af,M.bw(h,new T.cY(C.L,h,h,T.ie(H.c([new T.b6(C.pf,L.bT("Sai Sri Ram Kumar Macha",h,h,h,B.b0(C.l,30,h),h),h),new T.b6(C.pf,L.bT("Cyber Security. Flutter. Web development",h,h,h,B.b0(C.O,22,h),h),h),new T.cY(C.L,h,h,L.bT("Likes Traveling.",h,h,h,B.b0(C.O,22,h),h),h),new T.b6(C.kW,T.kr(H.c([new E.fH(O.pJ(N.a_i(L.MC(C.Rz,C.wY.h(0,200)),L.bT("GitHub",h,h,h,B.b0(C.l,h,h),h),new K.U8())),h),new E.fH(O.pJ(N.a_i(L.MC(C.Ry,C.aw),L.bT("Twitter",h,h,h,B.b0(C.l,h,h),h),new K.U9())),h),new E.fH(O.pJ(N.a_i(L.MC(C.vQ,C.x5),L.bT("Codewars",h,h,h,B.b0(C.l,h,h),h),new K.Ua())),h)],l),C.m3,C.ab),h)],l),C.aJ,C.aa,C.ab),h),h,h,h,h,h,h,h,h,h),h)],l),C.aJ,C.aa,C.ab),C.o,h,h,h,h,h,h,h,h),h),new P.v(g),h,h,h,h,h,h,h,h)
 j=new Y.bP(new P.v(g),0,C.z)
 m=S.wy(new F.cg(j,j,j,j),h,h,new P.v(g),h,h,C.as)
 return M.bw(h,T.kr(H.c([new T.cS(1,C.af,a0,h),new T.cS(1,C.af,M.bw(h,new T.cY(C.L,h,h,M.bw(h,T.ie(H.c([L.bT("SRI RAM WELCOMES YOU",h,h,h,B.b0(new P.v(f),70,h),C.d0),L.bT("Hi there, I am developer/Cyber security resercher. Currently doing my bachelor' at SRM AP. I am a assosiate in the Satochi Lab under Nextech Lab - AP.",h,h,h,B.b0(new P.v(f),h,C.bQ),h)],l),C.aJ,C.m3,C.ab),h,h,h,h,h,h,h,h,512),h),h,h,m,h,h,h,h,h,h),h)],l),C.aa,C.ab),C.az,h,h,h,b.b,h,h,h,h)}}
@@ -47733,7 +47733,7 @@ return M.bw(s,T.mX(C.cj,H.c([new T.fb(C.ky,s,s,new T.b6(C.p9,L.bT(r,s,s,s,B.b0(C
 return M.bw(s,T.mX(C.cj,H.c([new T.fb(C.ky,s,s,new T.b6(C.p9,L.bT(r,s,s,s,B.b0(C.l,22,s),s),s),s),new T.fb(C.nG,s,s,new T.b6(C.kW,L.bT(q,s,s,s,B.b0(C.l,22,s),s),s),s),E.a2G(new V.Wj(p),J.b3(p.e),0.3,0.4)],o),C.ci),C.o,s,s,s,t.b,s,s,s,s)}}}
 V.Wi.prototype={
 $2:function(a,b){var t=null,s=F.bR(a,!1).a,r=F.bR(a,!1).a,q=this.a
-return new T.cY(C.L,t,t,M.bw(t,T.ie(H.c([new T.cS(4,C.af,new E.fH(O.pJ(R.Zz(!1,!0,U.Zx("images/"+H.b(J.T(q.e,b))+".jpg",C.hr,t,t),t,!0,t,t,t,t,t,t,t,t,new V.Wh(q,b),t)),t),t),new T.cS(1,C.af,new T.b6(C.pb,L.bT(H.b(J.T(q.e,b)),t,t,t,B.b0(new P.v(4292997106),22,C.ag),t),t),t)],u.F),C.aJ,C.aa,C.ab),C.az,t,t,t,r.b/2.05,t,t,t,s.a/4),t)},
+return new T.cY(C.L,t,t,M.bw(t,T.ie(H.c([new T.cS(4,C.af,new E.fH(O.pJ(R.Zz(!1,!0,U.Zx("assets/images/"+H.b(J.T(q.e,b))+".jpg",C.hr,t,t),t,!0,t,t,t,t,t,t,t,t,new V.Wh(q,b),t)),t),t),new T.cS(1,C.af,new T.b6(C.pb,L.bT(H.b(J.T(q.e,b)),t,t,t,B.b0(new P.v(4292997106),22,C.ag),t),t),t)],u.F),C.aJ,C.aa,C.ab),C.az,t,t,t,r.b/2.05,t,t,t,s.a/4),t)},
 $C:"$2",
 $R:2}
 V.Wh.prototype={
@@ -47749,7 +47749,7 @@ $0:function(){C.aC.vg(window,"https://github.com/ASSASSIN-363/"+H.b(J.T(this.a.e
 $S:0}
 R.BY.prototype={
 J:function(a){var t=null,s=F.bR(a,!1).a,r=B.b0(C.o,25,t)
-return new T.cY(C.L,t,t,M.bw(t,T.kr(H.c([new T.cS(5,C.af,M.bw(t,new T.cY(C.L,t,t,T.a__(t,t,C.hh,!0,t,Q.hE(H.c([Q.hE(t,B.b0(C.o,18,t),"\n\n- Thomas Edison")],u.nO),r,"\"I haven't failed. I've just found 10,000\nways that won't work\""),C.aB,t,t,1,C.bK),t),t,t,t,t,t,t,t,t,t),t),new T.cS(4,C.af,M.bw(t,new T.fb(C.th,t,t,U.Zx("images/QuietDesk.webp",C.hr,340,460),t),t,t,t,t,t,t,t,t,t),t)],u.F),C.aa,C.ab),new P.v(4292997106),t,t,t,s.b*2/3,t,t,t,t),t)}}
+return new T.cY(C.L,t,t,M.bw(t,T.kr(H.c([new T.cS(5,C.af,M.bw(t,new T.cY(C.L,t,t,T.a__(t,t,C.hh,!0,t,Q.hE(H.c([Q.hE(t,B.b0(C.o,18,t),"\n\n- Thomas Edison")],u.nO),r,"\"I haven't failed. I've just found 10,000\nways that won't work\""),C.aB,t,t,1,C.bK),t),t,t,t,t,t,t,t,t,t),t),new T.cS(4,C.af,M.bw(t,new T.fb(C.th,t,t,U.Zx("assets/images/QuietDesk.webp",C.hr,340,460),t),t,t,t,t,t,t,t,t,t),t)],u.F),C.aa,C.ab),new P.v(4292997106),t,t,t,s.b*2/3,t,t,t,t),t)}}
 E.C3.prototype={
 J:function(a){return new Q.on(new E.Sc(),P.cL(0,350),new D.bI("item.1",u.hp))}}
 E.Sc.prototype={
